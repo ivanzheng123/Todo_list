@@ -3,12 +3,12 @@ import { Todo } from "../types/todo";
 export const dummyData: Todo[] = [
   {
     id: 1,
-    title: "I have big pp",
+    title: "I have gigantic pp",
     completed: false,
   },
   {
   id: 2,
-  title: "I need to do homework",
+  title: "I need to do my baby",
   completed: false,
   },
   {
